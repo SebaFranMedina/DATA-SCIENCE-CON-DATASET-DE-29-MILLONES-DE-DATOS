@@ -202,4 +202,4 @@ Ayudan a identificar la carga sobre los sistemas de salud según tipo de financi
 
 
 
-✍️ *Proyecto desarrollado y analizado por Sebastián Medina*
+✍️ Proyecto desarrollado y analizado por Sebastián Medina
