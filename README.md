@@ -11,7 +11,7 @@ El objetivo es extraer información clave sobre mortalidad, distribución por ed
 -Jupyter Notebook → entorno para ejecutar y documentar el análisis paso a paso  
 -Pandas → manejo y limpieza de datos  
 -Numpy → cálculos numéricos  
--matplotlib y seaborn → visualizaciones gráficas  
+-Matplotlib y Seaborn → visualizaciones gráficas  
 ---
 
 ##🚀 Guía Rápida para Ejecutar el Proyecto
