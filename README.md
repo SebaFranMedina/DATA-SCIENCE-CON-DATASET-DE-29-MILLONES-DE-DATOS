@@ -184,7 +184,7 @@ Los gráficos permiten visualizar relaciones entre variables categóricas y num�
 Facilitan la interpretación de la mortalidad por edad, sexo y región.
 Ayudan a identificar la carga sobre los sistemas de salud según tipo de financiamiento y uso de UTI/ARM.
 ---
-
+```
 ✅ Síntesis general
 
 📈 La positividad fue del 30.8%, con una mayoría de casos descartados.
