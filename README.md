@@ -90,6 +90,7 @@ Presencia de valores faltantes
 Se visualizan las primeras filas con df.head() para verificar la estructura.
 
 💡 Esta etapa permite entender los tipos de datos antes de aplicar transformaciones o análisis.
+
 ---
 
 ## 🧪 Módulo 3: Optimización de tipos de datos
@@ -183,9 +184,11 @@ Pacientes en cuidados intensivos por tipo de financiamiento
 Gráfico de barras mostrando la distribución entre sistema público y privado.
 
 💡 Observaciones
+
 Los gráficos permiten visualizar relaciones entre variables categóricas y numéricas.
 Facilitan la interpretación de la mortalidad por edad, sexo y región.
 Ayudan a identificar la carga sobre los sistemas de salud según tipo de financiamiento y uso de UTI/ARM.
+
 ---
 ```
 ✅ Síntesis general
