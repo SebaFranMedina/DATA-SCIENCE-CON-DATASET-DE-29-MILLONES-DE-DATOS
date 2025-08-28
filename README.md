@@ -14,7 +14,7 @@ El objetivo es extraer información clave sobre mortalidad, distribución por ed
 **-matplotlib y seaborn** → visualizaciones gráficas  
 ---
 
-🚀 Guía Rápida para Ejecutar el Proyecto
+##🚀 Guía Rápida para Ejecutar el Proyecto
 1. 📥 Descargar el dataset
 Covid19Casos.csv – Datos.gob.ar
 https://datos.gob.ar/dataset/salud-covid-19-casos-registrados-republica-argentina/archivo/salud_fd657d02-a33a-498b-a91b-2ef1a68b8d16
@@ -77,7 +77,7 @@ Se seleccionaron **8 columnas clave**:
 - Filas: ~29 millones (aprox.)
 
 ---
-**🧪 Módulo 2: Carga del archivo filtrado y exploración inicial**
+##**🧪 Módulo 2: Carga del archivo filtrado y exploración inicial**
 
 Se carga el archivo CSV reducido covid_8_columnas.csv en un DataFrame llamado df.
 Se inspecciona la estructura con df.info():
@@ -149,7 +149,7 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 - Distribución por provincia (si aplica)  
 ---
 
-**🧪 Módulo 5: Visualizaciones y gráficos**
+##**🧪 Módulo 5: Visualizaciones y gráficos**
 
 ✅ Objetivo
 Generar gráficos que permitan visualizar patrones y relaciones entre variables clave del dataset covid_8_columnas.csv.
