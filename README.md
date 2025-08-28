@@ -77,7 +77,7 @@ Se seleccionaron **8 columnas clave**:
 - Filas: ~29 millones (aprox.)
 
 ---
-##**🧪 Módulo 2: Carga del archivo filtrado y exploración inicial**
+##🧪 Módulo 2: Carga del archivo filtrado y exploración inicial
 
 Se carga el archivo CSV reducido covid_8_columnas.csv en un DataFrame llamado df.
 Se inspecciona la estructura con df.info():
