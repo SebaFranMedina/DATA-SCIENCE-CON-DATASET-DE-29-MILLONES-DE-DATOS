@@ -4,9 +4,10 @@
 
 Este proyecto realiza un **análisis exploratorio de datos (EDA)** sobre los casos de COVID-19 en Argentina, usando un dataset filtrado y optimizado.  
 El objetivo es extraer información clave sobre mortalidad, distribución por edad, sexo, provincia, uso de cuidados intensivos y asistencia respiratoria mecánica, y analizar la carga de pacientes en los sistemas de salud público y privado.
----
+
 
 🔹 Tecnologías y librerías utilizadas
+
 -Python → lenguaje principal para análisis y procesamiento de datos  
 -Jupyter Notebook → entorno para ejecutar y documentar el análisis paso a paso  
 -Pandas → manejo y limpieza de datos  
