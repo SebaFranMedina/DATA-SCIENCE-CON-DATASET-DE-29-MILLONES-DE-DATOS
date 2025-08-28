@@ -80,6 +80,7 @@ Se seleccionaron **8 columnas clave**:
 
 ---
 
+
 ## 🧪 Módulo 2: Carga del archivo filtrado y exploración inicial
 
 Se carga el archivo CSV reducido covid_8_columnas.csv en un DataFrame llamado df.
@@ -91,7 +92,9 @@ Se visualizan las primeras filas con df.head() para verificar la estructura.
 
 💡 Esta etapa permite entender los tipos de datos antes de aplicar transformaciones o análisis.
 
+
 ---
+
 
 ## 🧪 Módulo 3: Optimización de tipos de datos
 
@@ -106,7 +109,9 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 - Menor consumo de RAM  
 - Mayor velocidad en operaciones de filtrado, agrupamiento y ordenamiento
 
+
 ---
+
 
 ## 🧪 Módulo 4: Carga y exploración inicial
 
@@ -115,7 +120,9 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 - Visualización de las primeras filas (`df.head()`)  
 - Inspección de valores únicos por columna y calidad de datos
 
+
 ---
+
 
 ## 🔍 Funcionalidades principales del análisis
 
@@ -141,7 +148,9 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 6. **Análisis adicional (opcional)**
    - Distribución de casos por provincia
 
+
 ---
+
 
 ## 📊 Salidas generadas
 
@@ -150,10 +159,14 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 - Estadísticas descriptivas de edad  
 - Métricas principales: totales y porcentajes  
 - Reporte de calidad de datos (nulos)  
-- Distribución por provincia (si aplica)  
+- Distribución por provincia (si aplica)
+
+  
 ---
 
+
 ## **🧪 Módulo 5: Visualizaciones y gráficos**
+
 
 ✅ Objetivo
 Generar gráficos que permitan visualizar patrones y relaciones entre variables clave del dataset covid_8_columnas.csv.
@@ -184,10 +197,10 @@ Pacientes en cuidados intensivos por tipo de financiamiento
 Gráfico de barras mostrando la distribución entre sistema público y privado.
 
 💡 Observaciones
-
 Los gráficos permiten visualizar relaciones entre variables categóricas y numéricas.
 Facilitan la interpretación de la mortalidad por edad, sexo y región.
 Ayudan a identificar la carga sobre los sistemas de salud según tipo de financiamiento y uso de UTI/ARM.
+
 
 ---
 ```
