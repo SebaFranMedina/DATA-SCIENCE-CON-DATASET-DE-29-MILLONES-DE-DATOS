@@ -79,7 +79,8 @@ Se seleccionaron **8 columnas clave**:
 - Filas: ~29 millones (aprox.)
 
 ---
-##🧪 Módulo 2: Carga del archivo filtrado y exploración inicial
+
+## 🧪 Módulo 2: Carga del archivo filtrado y exploración inicial
 
 Se carga el archivo CSV reducido covid_8_columnas.csv en un DataFrame llamado df.
 Se inspecciona la estructura con df.info():
@@ -151,7 +152,7 @@ Reducir el uso de memoria y mejorar rendimiento del DataFrame.
 - Distribución por provincia (si aplica)  
 ---
 
-##**🧪 Módulo 5: Visualizaciones y gráficos**
+## **🧪 Módulo 5: Visualizaciones y gráficos**
 
 ✅ Objetivo
 Generar gráficos que permitan visualizar patrones y relaciones entre variables clave del dataset covid_8_columnas.csv.
