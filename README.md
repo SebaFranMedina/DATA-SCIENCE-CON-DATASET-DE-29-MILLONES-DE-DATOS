@@ -16,7 +16,7 @@ El objetivo es extraer información clave sobre mortalidad, distribución por ed
 
 ---
 
-##🚀 Guía Rápida para Ejecutar el Proyecto
+🚀 Guía Rápida para Ejecutar el Proyecto
 1. 📥 Descargar el dataset
 Covid19Casos.csv – Datos.gob.ar
 https://datos.gob.ar/dataset/salud-covid-19-casos-registrados-republica-argentina/archivo/salud_fd657d02-a33a-498b-a91b-2ef1a68b8d16
