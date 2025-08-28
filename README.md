@@ -12,6 +12,7 @@ El objetivo es extraer información clave sobre mortalidad, distribución por ed
 -Pandas → manejo y limpieza de datos  
 -Numpy → cálculos numéricos  
 -Matplotlib y Seaborn → visualizaciones gráficas  
+
 ---
 
 ##🚀 Guía Rápida para Ejecutar el Proyecto
