@@ -83,6 +83,7 @@ Se seleccionaron **8 columnas clave**:
 
 ## 🧪 Módulo 2: Carga del archivo filtrado y exploración inicial
 
+Llamar al dataset filtrado covid_8_columnas.csv y colocar en la misma carpeta del proyecto.
 Se carga el archivo CSV reducido covid_8_columnas.csv en un DataFrame llamado df.
 Se inspecciona la estructura con df.info():
 Cantidad total de registros
